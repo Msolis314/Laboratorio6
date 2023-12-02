@@ -71,4 +71,5 @@ En la siguiente imagen se muestra como se ejecutan los cálculos con la operacio
 Lo cual demuestra que la calculadora funciona adecuadamente. Además, cuando se le digita una entrada incorrecta se muestra lo siguiente: 
 
 ![Parte Exceptions](https://github.com/Msolis314/Clases/blob/main/Reporte6ej2false.png)
+
 Por tanto, hay un adecuado manejo de excepciones. 
